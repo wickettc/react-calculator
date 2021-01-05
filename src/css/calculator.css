@@ -1,0 +1,9 @@
+.calculator {
+    margin-left: auto 50%;
+    width: 60vw;
+}
+
+.btn-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

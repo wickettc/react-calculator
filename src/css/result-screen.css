@@ -1,0 +1,6 @@
+.screen {
+    border: 1px solid black;
+    height: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
