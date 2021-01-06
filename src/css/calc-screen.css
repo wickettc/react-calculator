@@ -1,6 +1,14 @@
 .calc-screen {
-    height: 15px;
+    height: 25px;
+    padding-right: 5px;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
     border-left: 1px solid black;
     border-right: 1px solid black;
     border-bottom: 1px solid black;
+    margin-bottom: 15px;
+    color: #343a40;
+    background-color: #ced4da;
 }

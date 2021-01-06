@@ -1,6 +1,16 @@
 .calculator {
     margin-left: auto 50%;
     width: 60vw;
+    border: 1px solid black;
+    padding: 55px;
+    border-radius: 10%;
+    background-color: #649364;
+}
+
+@media only screen and (min-width: 950px) {
+    .calculator {
+        width: 45vw;
+    }
 }
 
 .btn-container {

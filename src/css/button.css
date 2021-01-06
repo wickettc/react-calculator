@@ -1,3 +1,11 @@
-.button {
-    padding: 20px;
+button[disabled],
+button {
+    border-radius: 15%;
+    font-size: large;
+    font-weight: 900;
+    padding: 15px;
+    color: #343a40;
+    background-color: #4e7e8c;
+    border: 1px solid black;
+    margin: 1%;
 }

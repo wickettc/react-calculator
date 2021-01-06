@@ -1,6 +1,11 @@
 .screen {
     border: 1px solid black;
-    height: 25px;
+    height: 40px;
     display: flex;
     justify-content: flex-end;
+    align-items: center;
+    color: #343a40;
+    background-color: #ced4da;
+    font-size: 2rem;
+    padding-right: 5px;
 }
